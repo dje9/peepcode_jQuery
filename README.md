@@ -1,4 +1,1 @@
-repoPeep_jQuery
-===============
-
-This is the complete directory provided by the jQuery tutorial form PeepCode.  Updated the application.js file as per the tutorial.
+This is a repo for the jQuery Project as presented in the PeepCode screencast.
